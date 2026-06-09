@@ -1,0 +1,45 @@
+Title: OSSCR Being Unbelievably Unfair and Unreasonable, What Do I Do?
+Subreddit: r/NEU
+URL: https://www.reddit.com/r/NEU/comments/z2de8l/osscr_being_unbelievably_unfair_and_unreasonable/
+Date: 2022-11-23
+
+POST:
+8 months ago now, I was accused of copying code from an online source in C++ and reported to OSCCR. Plagiarism checking software flagged me but it was an obvious error as it flagged generic parts of the code, mainly things like cout &lt;&lt; “some statement which the submission website checks character for character to get credit” &lt;&lt; endl The issue is, OSCCR has someone with no coding experience reviewing my code. I kid you not, he said during my hearing “well I’m looking at the first two lines and it is already the exact same”. The lines were: include &lt;iostream&gt; using namespace std; At this point I have a full list of my incremental submissions showing I worked on the assignment incrementally submitting attempts, as well as TWO statements from a separate professor who reviewed all the case files and said that there is no real evidence I cheated and my log of submissions actually proves I did not cheat. The statements are multiple paragraphs long, well worded, and go in detail explaining why this is a red herring case. However, the person handling my case has refused to take the professor’s statements seriously, stating that it does not count as a witness report since he was not there “when the incident occurred”. He also has no clue what to make of the log of my incremental work because he has no clue how to code and has never coded in his life. He actually asked me to explain my code in a “non-technical way”. WHEN HAS CODE BEEN NON-TECHNICAL? Why my original professor reported me I could not tell you, maybe out of laziness and not reading through the flagged assignment. Maybe because I spoke up against him in class many times and he was retaliating. Regardless, it is so obvious that this case holds no merit against me, but I can’t prove this because no one in OSCCR knows how to code, and they have told me multiple times after my requests that they will not refer my case back to someone who knows how to code. They have even gotten defensive and told me along the lines of “I know you think you’re smarter than us because you know how to code, but this is our job and we know how to do it.”  To this date, I have had a hearing, appealed unsuccesfully , gotten a rehearing after emailing and explaining my situation to madeleine estabrook (I got the professors statements for the second hearing independently for the second hearing), and had my second hearing. All were ruled against me. I’m in disbelief, out of options, and don’t know what to do. It’s actually insane. Does anyone have recommendations?  &#32; submitted by &#32;  /u/PeaBrainDino   [link] &#32; [comments]
+
+--- COMMENTS ---
+
+[comment by u/LightBound]
+Contact the Khoury dean, Ben Hescott, and at this point maybe a lawyer. It sounds like OSSCR has decided to put intentionally incompetent people on your case and the school is refusing to help, so your only option might be to pursue help outside the school
+
+[comment by u/PeaBrainDino]
+This is the department of engineering, and unfortunately lawyers are expensive
+
+[comment by u/Zashiony]
+Contact the COE Dean as well as undergraduate COE Dean Freeman. She’s always been very helpful in my past experiences.
+
+[comment by u/PeaBrainDino]
+Already have, she sent them an email way back urging them to have a coding person review my code. They did not care
+
+[comment by u/LordFundarbyrd]
+May be worth the payment depending on what you lose from whatever bullshit punishment they give you
+
+[comment by u/amboyscout]
+Contact Ben Hescott anyway. If you plead your case and tell him that you need someone with CS knowledge on your side, there&#39;s a shot he might care.
+
+[comment by u/LightBound]
+I would still recommend contacting anyone in any kind of managerial position (deans, people higher up in OSSCR, etc) who might be able to twist OSSCR or the original professor&#39;s arm and convince them to drop the cheating allegations. Lawyers are unfortunately expensive and I don&#39;t know if they&#39;d even be able to help, but it might help to just briefly sit down with one and ask if they know of any kind of external body that you can appeal to that might force Northeastern/OSSCR to reconsider. I&#39;m sorry that you&#39;re dealing with all this. Northeastern unfortunately has no problem completely fucking its students and offering them no recourse
+
+[comment by u/Markymarcouscous]
+Informing OSCAR that you are considering contacting a lawyer unless they put someone competent in charge of your case will at least get the ball rolling.
+
+[comment by u/NE_Golf]
+I’m sure they hear this all the time. I would kick it up to COE Dean, at same time tell Mgr of reviewer “I’ve spoken with my parents and they are willing to pay for a an attorney to get this matter resolved”. They probably hear all the time “lawyer” as an empty threat but by mentioning your source of funding it makes it real (even if it’s not true). What is the penalty? Expulsion? Failing grade? That’s a pretty high price considering the fact that they aren’t willing to competently review the case. You could get an attorney to write a letter for &lt;$1,000. (Get a free consult hour and have them write a letter to Dean COE - maybe an hour’s time - maybe less. Good luck
+
+[comment by u/AltruisticComparison]
+Instead of paying $900, try just writing a letter yourself explaining the next step— lawsuit. (Find a similar public case to reference) Don’t actually pay for the attorney letter unless they push further. I doubt they will push though. Most stop at a simple lawsuit threat.
+
+[comment by u/mapinis]
+I’d still recommend Hescott, he knows code and is a very helpful and amazing person. I’m sure he’d vouch for you even if COE, and if he doesn’t for some bs college reason, I’d be down to email him on your behalf.
+
+[comment by u/aimanan_hood]
+Wtf this sounds like an absolute nightmare. I&#39;d suggest doing whatever the other very helpful comments have said, and try going as far up the ladder as possible and threaten them with legal action. I can&#39;t believe these are the standards they hold themselves to.
